@@ -2,6 +2,13 @@
     "available_space": true,
     "content": [
         {
+            "id": "WqrusoQ6xVM",
+            "name": "Franz Liszt La Campanella-WqrusoQ6xVM.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/g3/videos/Franz Liszt La Campanella-WqrusoQ6xVM.mp4",
+            "size": 6.644896,
+            "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Franz Liszt La Campanella-WqrusoQ6xVM.mp4?raw=true"
+        },
+        {
             "id": "iEKaxD9p_vk",
             "name": "Sonata No. 3 in C major (Sonate en ut majeur no 3) , Op. 13 - Scherzo. Allegretto-iEKaxD9p_vk.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/g3/videos/Sonata No. 3 in C major (Sonate en ut majeur no 3) , Op. 13 - Scherzo. Allegretto-iEKaxD9p_vk.mp4",
@@ -14,6 +21,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/g3/videos/Liszt - Via Crucis - Station XIV - Jesus wird ins Grab gelegt-f1GS0V4TrOk.mp4",
             "size": 3.8597089999999996,
             "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Liszt - Via Crucis - Station XIV - Jesus wird ins Grab gelegt-f1GS0V4TrOk.mp4?raw=true"
+        },
+        {
+            "id": "tF7ZkPewwQo",
+            "name": "Orquesta Aragon Medley - El Bodeguero _ Chaleco _ Sabrosona _ Al Vaiven de Mi Carreta _ Los...-tF7ZkPewwQo.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/g3/videos/Orquesta Aragon Medley - El Bodeguero _ Chaleco _ Sabrosona _ Al Vaiven de Mi Carreta _ Los...-tF7ZkPewwQo.mp4",
+            "size": 82.77746599999999,
+            "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Orquesta Aragon Medley - El Bodeguero _ Chaleco _ Sabrosona _ Al Vaiven de Mi Carreta _ Los...-tF7ZkPewwQo.mp4?raw=true"
         },
         {
             "id": "dtW-pE6Sd9g",
@@ -30,11 +44,39 @@
             "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Baby Doll (From 'The Belle of New York')-89EHBU7r0eg.mp4?raw=true"
         },
         {
+            "id": "i8u5vD_D7l0",
+            "name": "Paganini - Violin Concerto No. 1-i8u5vD_D7l0.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/g3/videos/Paganini - Violin Concerto No. 1-i8u5vD_D7l0.mp4",
+            "size": 22.383568999999998,
+            "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Paganini - Violin Concerto No. 1-i8u5vD_D7l0.mp4?raw=true"
+        },
+        {
+            "id": "HbmdKG-xzc0",
+            "name": "Rock Box (B-Boy Mix)-HbmdKG-xzc0.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/g3/videos/Rock Box (B-Boy Mix)-HbmdKG-xzc0.mp4",
+            "size": 7.438988999999999,
+            "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Rock Box (B-Boy Mix)-HbmdKG-xzc0.mp4?raw=true"
+        },
+        {
             "id": "nbI6kq6wj9E",
             "name": "Romancillo de Mayo-nbI6kq6wj9E.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/g3/videos/Romancillo de Mayo-nbI6kq6wj9E.mp4",
             "size": 3.3305149999999997,
             "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Romancillo de Mayo-nbI6kq6wj9E.mp4?raw=true"
+        },
+        {
+            "id": "e7AH6RukcyU",
+            "name": "If I Became the President-e7AH6RukcyU.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/g3/videos/If I Became the President-e7AH6RukcyU.mp4",
+            "size": 4.479538,
+            "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/If I Became the President-e7AH6RukcyU.mp4?raw=true"
+        },
+        {
+            "id": "ticfaW7Dbro",
+            "name": "STUDIO 54 - 70's DISCO CLASSICS MIX 10 - by Francesco Giovannini-ticfaW7Dbro.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/g3/videos/STUDIO 54 - 70's DISCO CLASSICS MIX 10 - by Francesco Giovannini-ticfaW7Dbro.mp4",
+            "size": 34.241029,
+            "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/STUDIO 54 - 70's DISCO CLASSICS MIX 10 - by Francesco Giovannini-ticfaW7Dbro.mp4?raw=true"
         },
         {
             "id": "eNkfx9747qU",
@@ -44,6 +86,13 @@
             "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Adolphe Adam  - Le Diable \u00e0 quatre, ballet-pantomime in two acts (1845)-eNkfx9747qU.mp4?raw=true"
         },
         {
+            "id": "Wy4AV8YyTiI",
+            "name": "Liszt - Ein Fichtenbaum steht einsam, S.309-Wy4AV8YyTiI.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/g3/videos/Liszt - Ein Fichtenbaum steht einsam, S.309-Wy4AV8YyTiI.mp4",
+            "size": 2.032361,
+            "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Liszt - Ein Fichtenbaum steht einsam, S.309-Wy4AV8YyTiI.mp4?raw=true"
+        },
+        {
             "id": "xl70tAXGg70",
             "name": "Alicia de Larrocha plays Schumann - Humoreske, Op.20-xl70tAXGg70.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/g3/videos/Alicia de Larrocha plays Schumann - Humoreske, Op.20-xl70tAXGg70.mp4",
@@ -51,5 +100,5 @@
             "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Alicia de Larrocha plays Schumann - Humoreske, Op.20-xl70tAXGg70.mp4?raw=true"
         }
     ],
-    "total_size": 113.08208299999998
+    "total_size": 273.07993099999993
 }
