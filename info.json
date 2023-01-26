@@ -2,6 +2,13 @@
     "available_space": false,
     "content": [
         {
+            "id": "ticfaW7Dbro",
+            "name": "STUDIO 54 - 70s DISCO CLASSICS MIX 10 - by Francesco Giovannini-ticfaW7Dbro.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/g3/videos/STUDIO 54 - 70s DISCO CLASSICS MIX 10 - by Francesco Giovannini-ticfaW7Dbro.mp4",
+            "size": 34.241029,
+            "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/STUDIO 54 - 70s DISCO CLASSICS MIX 10 - by Francesco Giovannini-ticfaW7Dbro.mp4?raw=true"
+        },
+        {
             "id": "IpoAZlFjqDI",
             "name": "Keyboard Sonata No. 4 in G Major, Hob. XVI, G1 - III. Finale - Presto-IpoAZlFjqDI.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/g3/videos/Keyboard Sonata No. 4 in G Major, Hob. XVI, G1 - III. Finale - Presto-IpoAZlFjqDI.mp4",
@@ -63,6 +70,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/g3/videos/Liszt - Hungarian Rhapsody No. 2 - Hungarian Rhapsody No. 2-4VYJ8zH_J4U.mp4",
             "size": 17.254796,
             "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Liszt - Hungarian Rhapsody No. 2 - Hungarian Rhapsody No. 2-4VYJ8zH_J4U.mp4?raw=true"
+        },
+        {
+            "id": "4jVh5cZ_ZvM",
+            "name": "Rhapsody in Blue (2017 Remastered Version)-4jVh5cZ_ZvM.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/g3/videos/Rhapsody in Blue (2017 Remastered Version)-4jVh5cZ_ZvM.mp4",
+            "size": 20.209951999999998,
+            "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Rhapsody in Blue (2017 Remastered Version)-4jVh5cZ_ZvM.mp4?raw=true"
         },
         {
             "id": "tF7ZkPewwQo",
@@ -161,6 +175,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/g3/videos/Rhapsody in Blue (Remastered)-4jVh5cZ_ZvM.mp4",
             "size": 20.209951999999998,
             "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Rhapsody in Blue (Remastered)-4jVh5cZ_ZvM.mp4?raw=true"
+        },
+        {
+            "id": "vVJYBPQyFTQ",
+            "name": "Together In Electric Dreams (Remastered 2003 _ From 'Electric Dreams' Original Motion Picture...-vVJYBPQyFTQ.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/g3/videos/Together In Electric Dreams (Remastered 2003 _ From 'Electric Dreams' Original Motion Picture...-vVJYBPQyFTQ.mp4",
+            "size": 2.0387109999999997,
+            "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Together In Electric Dreams (Remastered 2003 _ From 'Electric Dreams' Original Motion Picture...-vVJYBPQyFTQ.mp4?raw=true"
         },
         {
             "id": "OB1-dR3Ar1Q",
@@ -401,5 +422,5 @@
             "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Alicia de Larrocha plays Schumann - Humoreske, Op.20-xl70tAXGg70.mp4?raw=true"
         }
     ],
-    "total_size": 980.0888989999997
+    "total_size": 1036.578591
 }
