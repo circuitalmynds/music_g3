@@ -1,6 +1,13 @@
 {
-    "available_space": false,
+    "available_space": true,
     "content": [
+        {
+            "id": "2YAzUC6LzNk",
+            "name": "Alexander Borodin - String Quartet No. 2 [2YAzUC6LzNk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/g3/videos/Alexander Borodin - String Quartet No. 2 [2YAzUC6LzNk].mp4",
+            "size": 41.470614999999995,
+            "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Alexander Borodin - String Quartet No. 2 [2YAzUC6LzNk].mp4?raw=true"
+        },
         {
             "id": "SAMagjy1ZE8",
             "name": "Bacalao-SAMagjy1ZE8.mp4",
@@ -72,13 +79,6 @@
             "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Liszt - Ein Fichtenbaum steht einsam, S.309-Wy4AV8YyTiI.mp4?raw=true"
         },
         {
-            "id": "c4tEbm6qQUs",
-            "name": "Turbopótamos - El metro (videoclip)-c4tEbm6qQUs.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/g3/videos/Turbopótamos - El metro (videoclip)-c4tEbm6qQUs.mp4",
-            "size": 11.459348,
-            "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Turbopótamos - El metro (videoclip)-c4tEbm6qQUs.mp4?raw=true"
-        },
-        {
             "id": "ticfaW7Dbro",
             "name": "STUDIO 54 - 70s DISCO CLASSICS MIX 10 - by Francesco Giovannini-ticfaW7Dbro.mp4",
             "path": "/home/alanmatzumiya/Videos/container/g3/videos/STUDIO 54 - 70s DISCO CLASSICS MIX 10 - by Francesco Giovannini-ticfaW7Dbro.mp4",
@@ -93,13 +93,6 @@
             "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Liszt - Der Müller und der Bach, S.565 No. 2 (after Schubert, D.795)-AJwOe3jphB4.mp4?raw=true"
         },
         {
-            "id": "2YAzUC6LzNk",
-            "name": "Alexander Borodin - String Quartet No. 2-2YAzUC6LzNk.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/g3/videos/Alexander Borodin - String Quartet No. 2-2YAzUC6LzNk.mp4",
-            "size": 41.470614999999995,
-            "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Alexander Borodin - String Quartet No. 2-2YAzUC6LzNk.mp4?raw=true"
-        },
-        {
             "id": "KIdrOQoKTr8",
             "name": "Imagination - So Good, So Right (Dim Zach edit)-KIdrOQoKTr8.mp4",
             "path": "/home/alanmatzumiya/Videos/container/g3/videos/Imagination - So Good, So Right (Dim Zach edit)-KIdrOQoKTr8.mp4",
@@ -107,25 +100,11 @@
             "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Imagination - So Good, So Right (Dim Zach edit)-KIdrOQoKTr8.mp4?raw=true"
         },
         {
-            "id": "WmGTsZH3SFU",
-            "name": "Frank Fernández. Zapateo por Derecho. Suite para Dos Pianos-WmGTsZH3SFU.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/g3/videos/Frank Fernández. Zapateo por Derecho. Suite para Dos Pianos-WmGTsZH3SFU.mp4",
-            "size": 19.40736,
-            "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Frank Fernández. Zapateo por Derecho. Suite para Dos Pianos-WmGTsZH3SFU.mp4?raw=true"
-        },
-        {
-            "id": "T5oVgqIbOqw",
-            "name": "Ma mère l'oye - Maurice Ravel-T5oVgqIbOqw.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/g3/videos/Ma mère l'oye - Maurice Ravel-T5oVgqIbOqw.mp4",
-            "size": 22.009397999999997,
-            "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Ma mère l'oye - Maurice Ravel-T5oVgqIbOqw.mp4?raw=true"
-        },
-        {
             "id": "uOnjYaZ9M2g",
-            "name": "Radio Futura - La canción de Juan Perro (1987) (Álbum completo)-uOnjYaZ9M2g.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/g3/videos/Radio Futura - La canción de Juan Perro (1987) (Álbum completo)-uOnjYaZ9M2g.mp4",
+            "name": "Radio Futura - La canción de Juan Perro (1987) (Álbum completo) [uOnjYaZ9M2g].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/g3/videos/Radio Futura - La canción de Juan Perro (1987) (Álbum completo) [uOnjYaZ9M2g].mp4",
             "size": 43.934809,
-            "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Radio Futura - La canción de Juan Perro (1987) (Álbum completo)-uOnjYaZ9M2g.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Radio Futura - La canción de Juan Perro (1987) (Álbum completo) [uOnjYaZ9M2g].mp4?raw=true"
         },
         {
             "id": "0vOCHpRq0h4",
@@ -147,6 +126,13 @@
             "path": "/home/alanmatzumiya/Videos/container/g3/videos/Liszt - Hungarian Rhapsody No. 2 - Hungarian Rhapsody No. 2-4VYJ8zH_J4U.mp4",
             "size": 17.254796,
             "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Liszt - Hungarian Rhapsody No. 2 - Hungarian Rhapsody No. 2-4VYJ8zH_J4U.mp4?raw=true"
+        },
+        {
+            "id": "WmGTsZH3SFU",
+            "name": "Frank Fernández. Zapateo por Derecho. Suite para Dos Pianos [WmGTsZH3SFU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/g3/videos/Frank Fernández. Zapateo por Derecho. Suite para Dos Pianos [WmGTsZH3SFU].mp4",
+            "size": 19.40736,
+            "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Frank Fernández. Zapateo por Derecho. Suite para Dos Pianos [WmGTsZH3SFU].mp4?raw=true"
         },
         {
             "id": "iEKaxD9p_vk",
@@ -177,20 +163,6 @@
             "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Keyboard Sonata No. 2 in C Major, Hob. XVI, 7 - I. Allegro moderato-JpRgIEqXWDs.mp4?raw=true"
         },
         {
-            "id": "ticfaW7Dbro",
-            "name": "STUDIO 54 - 70's DISCO CLASSICS MIX 10 - by Francesco Giovannini-ticfaW7Dbro.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/g3/videos/STUDIO 54 - 70's DISCO CLASSICS MIX 10 - by Francesco Giovannini-ticfaW7Dbro.mp4",
-            "size": 34.241029,
-            "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/STUDIO 54 - 70's DISCO CLASSICS MIX 10 - by Francesco Giovannini-ticfaW7Dbro.mp4?raw=true"
-        },
-        {
-            "id": "Cudt9I955Wo",
-            "name": "Joe Venuti & Eddie Lang Vol.1 [1989] - Joe Venuti & Eddie Lang-Cudt9I955Wo.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/g3/videos/Joe Venuti & Eddie Lang Vol.1 [1989] - Joe Venuti & Eddie Lang-Cudt9I955Wo.mp4",
-            "size": 80.78073499999999,
-            "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Joe Venuti & Eddie Lang Vol.1 [1989] - Joe Venuti & Eddie Lang-Cudt9I955Wo.mp4?raw=true"
-        },
-        {
             "id": "1LHg4_UYDaQ",
             "name": "Liszt - Via Crucis - Station III - Jesus fällt zum ersten Mal-1LHg4_UYDaQ.mp4",
             "path": "/home/alanmatzumiya/Videos/container/g3/videos/Liszt - Via Crucis - Station III - Jesus fällt zum ersten Mal-1LHg4_UYDaQ.mp4",
@@ -210,13 +182,6 @@
             "path": "/home/alanmatzumiya/Videos/container/g3/videos/Liszt - Das Wandern, S.565 No. 1 (after Schubert, D.795)-3gupFhJGxYw.mp4",
             "size": 1.210902,
             "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Liszt - Das Wandern, S.565 No. 1 (after Schubert, D.795)-3gupFhJGxYw.mp4?raw=true"
-        },
-        {
-            "id": "i8u5vD_D7l0",
-            "name": "Paganini - Violin Concerto No. 1-i8u5vD_D7l0.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/g3/videos/Paganini - Violin Concerto No. 1-i8u5vD_D7l0.mp4",
-            "size": 22.383568999999998,
-            "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Paganini - Violin Concerto No. 1-i8u5vD_D7l0.mp4?raw=true"
         },
         {
             "id": "XM6DWHzXVnM",
@@ -245,13 +210,6 @@
             "path": "/home/alanmatzumiya/Videos/container/g3/videos/Romancillo de Mayo-nbI6kq6wj9E.mp4",
             "size": 3.3305149999999997,
             "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Romancillo de Mayo-nbI6kq6wj9E.mp4?raw=true"
-        },
-        {
-            "id": "vVJYBPQyFTQ",
-            "name": "Together In Electric Dreams (Remastered _ From 'Electric Dreams' Original Motion Picture...-vVJYBPQyFTQ.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/g3/videos/Together In Electric Dreams (Remastered _ From 'Electric Dreams' Original Motion Picture...-vVJYBPQyFTQ.mp4",
-            "size": 2.0387109999999997,
-            "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Together In Electric Dreams (Remastered _ From 'Electric Dreams' Original Motion Picture...-vVJYBPQyFTQ.mp4?raw=true"
         },
         {
             "id": "OB1-dR3Ar1Q",
@@ -289,13 +247,6 @@
             "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Liszt - Via Crucis - Station XIV - Jesus wird ins Grab gelegt-f1GS0V4TrOk.mp4?raw=true"
         },
         {
-            "id": "WqrusoQ6xVM",
-            "name": "Franz Liszt La Campanella-WqrusoQ6xVM.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/g3/videos/Franz Liszt La Campanella-WqrusoQ6xVM.mp4",
-            "size": 6.644896,
-            "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Franz Liszt La Campanella-WqrusoQ6xVM.mp4?raw=true"
-        },
-        {
             "id": "Z9tX0Ln_wjs",
             "name": "12 Songs, Op. 21 (version for piano)  - Lilacs-Z9tX0Ln_wjs.mp4",
             "path": "/home/alanmatzumiya/Videos/container/g3/videos/12 Songs, Op. 21 (version for piano)  - Lilacs-Z9tX0Ln_wjs.mp4",
@@ -304,10 +255,10 @@
         },
         {
             "id": "ZmQd6FM31X4",
-            "name": "Ferdinando Carulli (1770-1841) - Guitar Concerto in A major Op. 8a - Pepe Romero-ZmQd6FM31X4.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/g3/videos/Ferdinando Carulli (1770-1841) - Guitar Concerto in A major Op. 8a - Pepe Romero-ZmQd6FM31X4.mp4",
+            "name": "Ferdinando Carulli (1770-1841)： Guitar Concerto in A major Op. 8a - Pepe Romero [ZmQd6FM31X4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/g3/videos/Ferdinando Carulli (1770-1841)： Guitar Concerto in A major Op. 8a - Pepe Romero [ZmQd6FM31X4].mp4",
             "size": 21.865464,
-            "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Ferdinando Carulli (1770-1841) - Guitar Concerto in A major Op. 8a - Pepe Romero-ZmQd6FM31X4.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Ferdinando Carulli (1770-1841)： Guitar Concerto in A major Op. 8a - Pepe Romero [ZmQd6FM31X4].mp4?raw=true"
         },
         {
             "id": "9RI_DLA3VmY",
@@ -366,25 +317,11 @@
             "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Fela Kuti & Africa 70 - Pansa Pansa - FULL HD (Berlin 1978)-kr8oRpA2SpE.mp4?raw=true"
         },
         {
-            "id": "4jVh5cZ_ZvM",
-            "name": "Rhapsody in Blue (Remastered)-4jVh5cZ_ZvM.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/g3/videos/Rhapsody in Blue (Remastered)-4jVh5cZ_ZvM.mp4",
-            "size": 20.209951999999998,
-            "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Rhapsody in Blue (Remastered)-4jVh5cZ_ZvM.mp4?raw=true"
-        },
-        {
             "id": "j_yNqSR1E1w",
             "name": "Liszt - Héroïde funèbre, symphonic poem No. 8, S.102-j_yNqSR1E1w.mp4",
             "path": "/home/alanmatzumiya/Videos/container/g3/videos/Liszt - Héroïde funèbre, symphonic poem No. 8, S.102-j_yNqSR1E1w.mp4",
             "size": 17.54525,
             "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Liszt - Héroïde funèbre, symphonic poem No. 8, S.102-j_yNqSR1E1w.mp4?raw=true"
-        },
-        {
-            "id": "eNkfx9747qU",
-            "name": "Adolphe Adam  - Le Diable à quatre, ballet-pantomime in two acts (1845)-eNkfx9747qU.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/g3/videos/Adolphe Adam  - Le Diable à quatre, ballet-pantomime in two acts (1845)-eNkfx9747qU.mp4",
-            "size": 40.142534999999995,
-            "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Adolphe Adam  - Le Diable à quatre, ballet-pantomime in two acts (1845)-eNkfx9747qU.mp4?raw=true"
         },
         {
             "id": "9G8wpIPzl7A",
@@ -422,5 +359,5 @@
             "url": "https://github.com/circuitalmynds/music_g3/blob/main/videos/Misery's Introduction-Y-kOqhGWu5Y.mp4?raw=true"
         }
     ],
-    "total_size": 1036.5785909999997
+    "total_size": 796.6684179999999
 }
